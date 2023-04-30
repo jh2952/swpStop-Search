@@ -1,8 +1,12 @@
-<h1>South Wales Police Stop & Search Map</h1>
+<h1>Welsh Police Stop & Search Map</h1>
 
 <h2>Description</h2>
 
-- This project consists of a Python script that processes public SWP stop and search data and plots it on a map. This script outputs a HTML file which consists of this data plotted out using the folium library, with the ability to select certain months for analysis.
+- This project consists of a Python script that processes public Welsh police stop and search data and plots it on a map. This script outputs a HTML file which consists of this data plotted out using the folium library, with the ability to select certain months for analysis, and look at each point for more information on e.g., coordinates, age, ethnicity, etc.
+
+<h2>Example</h2>
+
+https://user-images.githubusercontent.com/98927631/235370134-43305f2a-612e-4274-ab88-5abdbb0b0020.mp4
 
 <h2>Languages and Utilities Used</h2>
 
